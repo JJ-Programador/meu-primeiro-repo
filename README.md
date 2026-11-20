@@ -3,7 +3,8 @@
 Exercicio 1.1 da disciplina Transformacao Digital.
 
 ## Sobre
+
 Exercicio pratico de Git e GitHub.
 
-## Sobre
-Exercicio pratico de Git e GitHub.
+## 
+
